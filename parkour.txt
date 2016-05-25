@@ -1,0 +1,7 @@
+"parkour"
+{
+	"base"	"base"
+	"title"	"Parkour"
+	"maps"	"^gm_"
+	"menusystem"	"1"
+}
